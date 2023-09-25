@@ -1,0 +1,10 @@
+streamlit
+uvicorn
+jwt
+starlette
+fastapi
+psycopg2_binary
+pydantic
+pandas
+numpy
+pycaret
