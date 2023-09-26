@@ -1,6 +1,7 @@
+matplotlib
 streamlit
 uvicorn
-jwt
+PyJWT
 starlette
 fastapi
 psycopg2_binary

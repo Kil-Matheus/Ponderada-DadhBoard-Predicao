@@ -5,11 +5,7 @@ FROM python:3.8-slim
 WORKDIR /app
 
 # Copie o seu código, requirements.txt e o modelo para o contêiner
-COPY app.py .
-COPY teste.py .
-COPY minha_api.pkl .
-COPY modelo.pkl .
-COPY requirements.txt .
+COPY . .
 
 # Instale a biblioteca libgomp1
 RUN apt-get update && apt-get install -y libgomp1
@@ -18,4 +14,4 @@ RUN apt-get update && apt-get install -y libgomp1
 RUN pip install -r requirements.txt
 
 # Execute a sua aplicação FastAPI
-CMD ["uvicorn", "minha_api:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]

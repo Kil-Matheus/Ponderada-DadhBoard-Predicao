@@ -19,7 +19,7 @@ db_conn = psycopg2.connect(
     dbname="postgres",
     user="postgres",
     password="senha",
-    host="localhost",
+    host="db",
     port="5432"
 )
 
@@ -48,7 +48,7 @@ async def login(request: Request):
             dbname="postgres",
             user="postgres",
             password="senha",
-            host="localhost",
+            host="db",
             port="5432"
             )
         
@@ -76,4 +76,4 @@ async def home(request: Request):
     return {"message": "ok"}
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
