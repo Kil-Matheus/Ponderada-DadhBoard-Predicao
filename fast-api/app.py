@@ -1,7 +1,6 @@
-import pandas as pd
-from pycaret.regression import load_model, predict_model
 from fastapi import FastAPI, Request
-import requests
+from fastapi.responses import RedirectResponse
+import pandas as pd
 import uvicorn
 from starlette.responses import HTMLResponse
 from starlette.templating import Jinja2Templates
@@ -73,7 +72,7 @@ async def login(request: Request):
 @app.get("/home")
 async def home(request: Request):
     subprocess.Popen(["streamlit", "run", "teste.py"])
-    return {"message": "ok"}
+    return RedirectResponse(url="http://localhost:8501", status_code=302)
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
