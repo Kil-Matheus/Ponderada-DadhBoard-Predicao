@@ -18,7 +18,7 @@ db_conn = psycopg2.connect(
     dbname="postgres",
     user="postgres",
     password="senha",
-    host="db",
+    host="localhost",
     port="5432"
 )
 
@@ -47,7 +47,7 @@ async def login(request: Request):
             dbname="postgres",
             user="postgres",
             password="senha",
-            host="db",
+            host="localhost",
             port="5432"
             )
         
@@ -69,10 +69,18 @@ async def login(request: Request):
     except psycopg2.Error as e:
         raise Exception(f'Erro ao selecionar: {e}')
     
-@app.get("/home")
+@app.get("/home", response_class=HTMLResponse)
 async def home(request: Request):
     subprocess.Popen(["streamlit", "run", "teste.py"])
-    return RedirectResponse(url="http://localhost:8501", status_code=302)
+    return """
+        <html>
+            <head>
+            </head>
+            <body>
+                <iframe src="http://localhost:8501" width="100%" height="600"></iframe>
+            </body>
+        </html>
+    """
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)

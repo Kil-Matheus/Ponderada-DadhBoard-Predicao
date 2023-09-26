@@ -15,25 +15,25 @@ services:
       - 5432:5432
     container_name: meu-db
     
-  adminer:
-    image: adminer
-    restart: always
-    ports:
-      - 8080:8080
-    depends_on:
-      - db
-    container_name: adminer
+  # adminer:
+  #   image: adminer
+  #   restart: always
+  #   ports:
+  #     - 8080:8080
+  #   depends_on:
+  #     - db
+  #   container_name: adminer
 
-  app:
-    build:
-      context: ./fast-api
-      dockerfile: Dockerfile
-    restart: always
-    ports:
-      - 8000:8000
-    depends_on:
-      - db
-    container_name: meu-app
+  # app:
+  #   build:
+  #     context: ./fast-api
+  #     dockerfile: Dockerfile
+  #   restart: always
+  #   ports:
+  #     - 8000:8000
+  #   depends_on:
+  #     - db
+  #   container_name: meu-app
     # volumes:
     #   - ./fast-api:/app
 

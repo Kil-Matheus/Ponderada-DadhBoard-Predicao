@@ -1825,3 +1825,458 @@ pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2023-09-25 20:07:57,455:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:19:43,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:19:43,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:19:43,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:19:43,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:19:44,089:INFO:Initializing load_model()
+2023-09-26 11:19:44,092:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:19:44,499:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:20:18,077:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:18,077:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:18,077:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:18,077:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:18,265:INFO:Initializing load_model()
+2023-09-26 11:20:18,265:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:20:18,438:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:20:33,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:33,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:33,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:33,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:20:33,759:INFO:Initializing load_model()
+2023-09-26 11:20:33,759:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:20:33,832:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:21:15,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:15,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:15,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:15,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:16,035:INFO:Initializing load_model()
+2023-09-26 11:21:16,035:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:21:16,130:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:21:30,895:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:30,895:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:30,895:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:30,895:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:21:31,005:INFO:Initializing load_model()
+2023-09-26 11:21:31,005:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:21:31,078:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:22:39,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:22:39,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:22:39,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:22:39,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:22:40,075:INFO:Initializing load_model()
+2023-09-26 11:22:40,075:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:22:40,134:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:23:03,720:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:23:03,720:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:23:03,720:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:23:03,720:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:23:03,837:INFO:Initializing load_model()
+2023-09-26 11:23:03,837:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:23:03,885:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:33:44,367:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:33:44,367:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:33:44,367:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:33:44,367:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:33:44,477:INFO:Initializing load_model()
+2023-09-26 11:33:44,477:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:33:44,550:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 11:34:18,655:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:34:18,655:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:34:18,655:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:34:18,655:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 11:34:18,950:INFO:Initializing load_model()
+2023-09-26 11:34:18,950:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 11:34:19,095:WARNING:C:\Users\Inteli\Documents\GitHub\Ponderada-DashBoard-Predicao\lib\site-packages\pycaret\internal\pipeline.py:139: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.1.0', 'IPython': '8.15.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:44:09,379:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:44:09,379:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:44:09,379:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:44:09,379:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:44:09,519:INFO:Initializing load_model()
+2023-09-26 12:44:09,519:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:44:09,598:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:46:06,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:06,582:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:06,582:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:06,582:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:06,836:INFO:Initializing load_model()
+2023-09-26 12:46:06,836:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:46:06,948:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:46:54,135:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:54,135:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:54,135:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:54,135:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:46:54,229:INFO:Initializing load_model()
+2023-09-26 12:46:54,229:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:46:54,307:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:48:50,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:48:50,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:48:50,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:48:50,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:48:50,617:INFO:Initializing load_model()
+2023-09-26 12:48:50,617:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:48:50,697:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:50:25,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:50:25,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:50:25,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:50:25,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:50:25,528:INFO:Initializing load_model()
+2023-09-26 12:50:25,528:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:50:25,607:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:52:34,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:52:34,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:52:34,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:52:34,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:52:34,823:INFO:Initializing load_model()
+2023-09-26 12:52:34,823:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:52:34,896:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:53:47,625:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:53:47,626:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:53:47,626:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:53:47,626:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:53:47,808:INFO:Initializing load_model()
+2023-09-26 12:53:47,808:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:53:47,926:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:54:24,212:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:54:24,212:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:54:24,212:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:54:24,212:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:54:24,485:INFO:Initializing load_model()
+2023-09-26 12:54:24,485:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:54:24,595:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:55:46,176:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:55:46,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:55:46,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:55:46,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:55:46,522:INFO:Initializing load_model()
+2023-09-26 12:55:46,522:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:55:46,686:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:56:00,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:56:00,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:56:00,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:56:00,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:56:00,804:INFO:Initializing load_model()
+2023-09-26 12:56:00,804:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:56:00,895:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 12:58:49,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:58:49,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:58:49,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:58:49,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 12:58:49,430:INFO:Initializing load_model()
+2023-09-26 12:58:49,430:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 12:58:49,533:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:01:06,399:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:01:06,399:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:01:06,399:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:01:06,399:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:01:06,527:INFO:Initializing load_model()
+2023-09-26 13:01:06,527:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:01:06,591:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:10:43,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:10:43,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:10:43,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:10:43,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:10:43,626:INFO:Initializing load_model()
+2023-09-26 13:10:43,626:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:10:43,702:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:12:01,541:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:01,541:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:01,541:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:01,541:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:01,760:INFO:Initializing load_model()
+2023-09-26 13:12:01,760:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:12:01,855:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:12:37,652:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:37,653:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:37,653:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:37,653:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:12:38,077:INFO:Initializing load_model()
+2023-09-26 13:12:38,077:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:12:38,205:WARNING:C:\Users\Inteli\Documents\GitHub\Ponderada-DashBoard-Predicao\lib\site-packages\pycaret\internal\pipeline.py:139: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.1.0', 'IPython': '8.15.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:13:58,201:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:13:58,203:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:13:58,203:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:13:58,203:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:13:58,860:INFO:Initializing load_model()
+2023-09-26 13:13:58,860:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:13:59,183:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:14:24,378:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:24,379:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:24,379:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:24,380:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:24,833:INFO:Initializing load_model()
+2023-09-26 13:14:24,833:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:14:25,000:WARNING:C:\Users\Inteli\Documents\GitHub\Ponderada-DashBoard-Predicao\lib\site-packages\pycaret\internal\pipeline.py:139: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.1.0', 'IPython': '8.15.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:14:56,919:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:56,920:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:56,920:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:56,920:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:14:57,273:INFO:Initializing load_model()
+2023-09-26 13:14:57,273:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:14:57,536:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:17:03,464:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:17:03,464:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:17:03,464:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:17:03,464:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:17:03,573:INFO:Initializing load_model()
+2023-09-26 13:17:03,573:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:17:03,636:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:18:06,739:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:18:06,739:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:18:06,739:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:18:06,739:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:18:06,848:INFO:Initializing load_model()
+2023-09-26 13:18:06,848:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:18:06,911:WARNING:C:\Users\Inteli\AppData\Local\Programs\Python\Python39\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.0.4', 'IPython': '8.15.0', 'ipywidgets': '8.1.0', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.2', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.16.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:19:01,593:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:19:01,593:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:19:01,593:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:19:01,593:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-26 13:19:01,719:INFO:Initializing load_model()
+2023-09-26 13:19:01,719:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:19:01,720:INFO:Initializing load_model()
+2023-09-26 13:19:01,720:INFO:load_model(model_name=minha_api, platform=None, authentication=None, verbose=True)
+2023-09-26 13:19:01,815:WARNING:C:\Users\Inteli\Documents\GitHub\Ponderada-DashBoard-Predicao\lib\site-packages\pycaret\internal\pipeline.py:139: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '58.1.0', 'pycaret': '3.1.0', 'IPython': '8.15.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.2', 'lightgbm': '4.1.0', 'numba': '0.58.0', 'requests': '2.31.0', 'matplotlib': '3.8.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.17.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.10', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.2', 'lightgbm': '4.0.0', 'numba': '0.56.4', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.22.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.3.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-09-26 13:19:01,815:INFO:Transformation Pipeline and Model Successfully Loaded
+2023-09-26 13:19:01,829:INFO:Transformation Pipeline and Model Successfully Loaded
+2023-09-26 13:19:12,438:INFO:  Stopping...

@@ -74,6 +74,7 @@
       </div>
     </div>
   </div>
+  <div id='streamlit-container'></div>
 
   <script>
     function handleLogin() {
@@ -92,11 +93,7 @@
           .then(data => {
             if (data.access_token) {
               localStorage.setItem('access_token', data.access_token);
-              fetch('/home', {
-                method: 'GET',
-              })
-              window.alert('Renderizando Streamlit...');
-              
+              window.location.href = '/home';
             } else {
               console.log('Erro ao fazer login:', data.error);
               alert('Erro ao fazer login.');
