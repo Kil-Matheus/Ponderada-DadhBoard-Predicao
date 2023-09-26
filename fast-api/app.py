@@ -18,7 +18,7 @@ db_conn = psycopg2.connect(
     dbname="postgres",
     user="postgres",
     password="senha",
-    host="localhost",
+    host="db",
     port="5432"
 )
 
@@ -47,7 +47,7 @@ async def login(request: Request):
             dbname="postgres",
             user="postgres",
             password="senha",
-            host="localhost",
+            host="db",
             port="5432"
             )
         
