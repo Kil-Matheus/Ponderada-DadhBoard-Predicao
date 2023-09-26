@@ -77,7 +77,7 @@ async def home(request: Request):
             <head>
             </head>
             <body>
-                <iframe src="http://localhost:8501" width="100%" height="600"></iframe>
+                <iframe src="http://34.234.232.1:8501" width="100%" height="600"></iframe>
             </body>
         </html>
     """
