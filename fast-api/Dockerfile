@@ -14,4 +14,4 @@ RUN apt-get update && apt-get install -y libgomp1
 RUN pip install -r requirements.txt
 
 # Execute a sua aplicação FastAPI
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "80"]
