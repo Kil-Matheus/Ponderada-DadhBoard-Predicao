@@ -11,6 +11,8 @@ COPY . .
 RUN apt-get update && apt-get install -y libgomp1
 
 # Instale as dependências Python especificadas no requirements.txt
+RUN pip install --upgrade pip
+RUN pip install pycaret
 RUN pip install -r requirements.txt
 
 # Execute a sua aplicação FastAPI

@@ -8,4 +8,3 @@ psycopg2_binary
 pydantic
 pandas
 numpy
-pycaret
